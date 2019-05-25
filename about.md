@@ -15,7 +15,7 @@ Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het 
 Bespeel jij een instrument en zou je ook graag in het orkest willen meespelen? 
 
 Dat kan!
-Stuur even een mailtje naar dit mailadres: schoolorkest@hotmail.com
+Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 
 ## Activiteiten
 
