@@ -17,7 +17,7 @@ Bespeel jij een instrument en zou je ook graag in het orkest willen meespelen?
 Dat kan!
 Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 
-## Activiteiten
+## Activiteiten 2018-2019
 
 <table style="border-collapse: collapse; width: 80.0312%;" border="1">
 <tbody>
@@ -51,6 +51,8 @@ Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 </tr>
 </tbody>
 </table>
+
+
 
 ## Video's
 
