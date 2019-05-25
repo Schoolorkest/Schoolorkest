@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nieuwe site!
-feature_image: ''
+feature_image: 'https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80'
 feature_text: ''
 image: ''
 ---
