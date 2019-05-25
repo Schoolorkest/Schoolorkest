@@ -6,7 +6,6 @@ feature_text: |
   ## Coornhert Schoolorkest
 ---
 
-Welkom op onze site!
 Wij vormen met zo'n 20 leerlingen en onze dirigent het schoolorkest van het <a href="https://www.coornhert-gymnasium.nl/">Coornhert Gymnasium</a>.
 
 Op onze site vind je informatie over ons orkest, zoals foto's, video's en onze de jaarplanning.
