@@ -19,7 +19,26 @@ Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 
 ## Activiteiten
 
-...
+<table style="border-collapse: collapse; width: 80.0312%;" border="1">
+<tbody>
+<tr>
+<td style="width: 7.32144%;"><strong>Datum</strong></td>
+<td style="width: 25.3709%;"><strong>Activiteit</strong></td>
+</tr>
+<tr>
+<td style="width: 7.32144%;">31-5-2019</td>
+<td style="width: 25.3709%;">Hemelvaart (geen repetitie)</td>
+</tr>
+<tr>
+<td style="width: 7.32144%;">21-6-2019</td>
+<td style="width: 25.3709%;">Ontvangst nieuwe brugklassers (alleen deel orkest)</td>
+</tr>
+<tr>
+<td style="width: 7.32144%;">28-6-2019</td>
+<td style="width: 25.3709%;">Klas 5 toetsweek (wel repetitie)</td>
+</tr>
+<tr>
+<td style="wi
 
 ## Video's
 
