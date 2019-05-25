@@ -1,7 +1,7 @@
 ---
 title: Welkom op onze site
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
 feature_text: |
   ## Coornhert Schoolorkest
 ---
