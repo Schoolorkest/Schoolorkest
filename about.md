@@ -38,7 +38,19 @@ Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 <td style="width: 25.3709%;">Klas 5 toetsweek (wel repetitie)</td>
 </tr>
 <tr>
-<td style="wi
+<td style="width: 7.32144%;">5-7-2019</td>
+<td style="width: 25.3709%;">Toetsweek, Griekenland-/Romereis (geen repetitie)</td>
+</tr>
+<tr>
+<td style="width: 7.32144%;">12-7-2019</td>
+<td style="width: 25.3709%;">Geen repetitie</td>
+</tr>
+<tr>
+<td style="width: 7.32144%;">15-7-2019</td>
+<td style="width: 25.3709%;">Slotconcert!</td>
+</tr>
+</tbody>
+</table>
 
 ## Video's
 
