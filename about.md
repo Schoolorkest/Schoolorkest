@@ -2,7 +2,6 @@
 layout: page
 title: Over het Schoolorkest
 ---
-
 Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het Coornhert Gymnasium.
 
 <div class="container">
@@ -13,25 +12,21 @@ Wij vormen met zo'n 20 leerlingen en onze dirigent het prachtige orkest van het 
   </div>
 </div>
 
-
 Bespeel jij een instrument en zou je ook graag in het orkest willen meespelen? 
 
 Dat kan!
-Stuur even een mailtje naar dit mailadres: ...
+Stuur even een mailtje naar dit mailadres: schoolorkest@hotmail.com
 
-## Activiteiten ##
+## Activiteiten
 
-- Orkestival
-- Slotconcert
-- ...
+* Orkestival
+* Slotconcert
+* ...
 
-## Video's ##
-
+## Video's
 
 <embed width="420" height="315"
 src="https://www.youtube.com/embed/Kpew9HXyVHQ">
 
-
 <embed width="420" height="315"
 src="https://www.youtube.com/embed/HuZMZ4lG49Y">
-
