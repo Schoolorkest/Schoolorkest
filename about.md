@@ -19,9 +19,7 @@ Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 
 ## Activiteiten
 
-* Orkestival
-* Slotconcert
-* ...
+...
 
 ## Video's
 
