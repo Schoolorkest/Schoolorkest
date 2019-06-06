@@ -52,9 +52,6 @@ Stuur even een mailtje naar dit mailadres: **schoolorkest@hotmail.com**
 </tbody>
 </table>
 
-
-
-
 ## Video's
 
 <embed width="420" height="315"
