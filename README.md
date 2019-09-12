@@ -1,3 +1,6 @@
+---
+title: README
+---
 # Starter kit for [Alembic](https://alembic.darn.es/) with Netlify CMS
 
 This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) with Netlify CMS.
